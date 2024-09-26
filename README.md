@@ -1,8 +1,8 @@
 <img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/Join%20Now.gif" width="2000" height="300"/>
 
-## 📌About Me✧𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🦋🌸𓍯૮₍ ´• ˕ • ₎ა🌸🧸✧ :
+## 📌About Me
 ✧   A beginner at programming<br>
-✧   A freshman student in Informatics Major at Universitas Negeri Padang<br>
+✧   A freshman student in Informatics Major at Universitas Pertiba<br>
 ✧   Interested in AI and UI/UX design<br>
 ✧   Currently learning C<br>
 ✧   Passionate about visual design and photography<br>
