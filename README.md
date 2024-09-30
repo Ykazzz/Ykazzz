@@ -24,16 +24,7 @@
   <img src="https://img.shields.io/badge/Discord-9999ff?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge" height="35" width="150"/>
 </a> <br> <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a> 
-</div>
-<br>
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Whanyzencc}/count.svg" /></p> 
-<br>
-</div>
-  <tr>
+
 
 ## 📊 GitHub Stats:
 
