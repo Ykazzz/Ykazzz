@@ -8,7 +8,7 @@
 
 ### 🌐Find Me On: <br>
 <div id="badges">
-<a href="https://www.instagram.com/whenyzenc_" target="_blank">
+<a href="https://www.instagram.com/zakymirzaa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-00ccff?style=for-the-badge&logo=instagram&logoColor=ffff00" alt="Instagram Badge" height="35" width="150"/>
 </a> <br> 
 <a href="mailto:whenyzenica@gmail.com" target="_blank">
