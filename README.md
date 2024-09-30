@@ -11,13 +11,13 @@
 <a href="https://www.instagram.com/zakymirzaa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-00ccff?style=for-the-badge&logo=instagram&logoColor=ffff00" alt="Instagram Badge" height="35" width="150"/>
 </a> <br> 
-<a href="mailto:whenyzenica@gmail.com" target="_blank">
+<a href="mailto:zakymirza0305@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-deeppink?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail Badge"  height="35" width="150" />
 </a> <br>
-<a href="https://www.tiktok.com/@_annoyzen?_t=8hxdHPLMJ6&_r=1" target="_blank">
+<a href="https://www.tiktok.com/@Ykaz.?_t=8hxdHPLMJ6&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-gren?style=for-the-badge&logo=Tiktok&logoColor=black" alt="Tiktok Badge" height="35" width="150" />
 </a> <br>
-  <a href="https://youtube.com/@ZoolineBox2952?feature=shared" target="_blank">
+  <a href="https://www.youtube.com/@Zakymirza16?feature=shared" target="_blank">
   <img src="https://img.shields.io/badge/youtube-ffffcc?style=for-the-badge&logo=youtube&logoColor=red" alt="youtube Badge" height="35" width="150" />
 </a> <br>
 <a href="https://discordapp.com/users/824195716259905557">
