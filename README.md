@@ -14,7 +14,7 @@
 <a href="mailto:zakymirza0305@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-deeppink?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail Badge"  height="35" width="150" />
 </a> <br>
-<a href="https://www.tiktok.com/@Ykaz.?_t=8hxdHPLMJ6&_r=1" target="_blank">
+<a href="https://www.tiktok.com/@ykaz1603?_t=8hxdHPLMJ6&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-gren?style=for-the-badge&logo=Tiktok&logoColor=black" alt="Tiktok Badge" height="35" width="150" />
 </a> <br>
   <a href="https://www.youtube.com/@Zakymirza16?feature=shared" target="_blank">
