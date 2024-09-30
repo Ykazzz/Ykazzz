@@ -6,11 +6,6 @@
 ✧   Currently learning C<br>
 ✧   Passionate about visual design and photography<br>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/ppg-flying.gif" align="right" width="220">
-<img src="https://github.com/Whanyzencc/Whanyzencc/blob/main/spinel(1).gif" align="right" width="290">
-
 ### 🌐Find Me On: <br>
 <div id="badges">
 <a href="https://www.instagram.com/whenyzenc_" target="_blank">
