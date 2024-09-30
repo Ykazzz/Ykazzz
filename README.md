@@ -30,12 +30,12 @@
 
 <table align="center">
   <tr>
-    <td><img width="500p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Whanyzencc?cardType=github&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Whanyzencc&theme=chartreuse-dark&hide_border=false"></td>
-    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whanyzencc&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
+    <td><img width="500p" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ykazzz?cardType=github&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true"><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Whanyzencc&theme=chartreuse-dark&hide_border=false"></td>
+    <td><img width="500p" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykazzz&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></td>
   </tr>
 </table>
 
 <!---
-Whanyzencc/Whanyzencc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ykazzz/Ykazzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.ba0bab
 --->
